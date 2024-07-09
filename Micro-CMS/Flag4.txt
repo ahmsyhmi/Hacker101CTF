@@ -1,0 +1,3 @@
+After testing xss and nothing there anymore .
+I tried sql injection on url by adding '
+and it show flag
